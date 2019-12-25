@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - stumps
+  - SixBoundary
+  - Bat
+  - Ball
+  - FourBoundary
+  - OneBoundary
+  - TwoBoundary
+  - ThreeBoundary
+  - OutBoundary
+  - Pitch
+  - ForwardBoundary
+  - BackBoundary
+  - CaughtBehind
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 846334613
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: foreground
+    uniqueID: 288150221
+    locked: 0
+  - name: foreground2
+    uniqueID: 3221876299
+    locked: 0
